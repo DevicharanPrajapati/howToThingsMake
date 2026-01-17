@@ -16,3 +16,4 @@ This repository tracks my step-by-step learning in web development.
 
 ## 🎯 Goal
 To improve my skills daily and track progress using GitHub.
+Learning Git and GitHub
